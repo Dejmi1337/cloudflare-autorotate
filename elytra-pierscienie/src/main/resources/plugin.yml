@@ -1,0 +1,13 @@
+name: ElytraPierscienie
+version: 1.0.0
+main: pl.elytrapierscienie.ElytraPierscienie
+api-version: '1.21'
+author: CodeRabbit
+commands:
+  elytra:
+    description: Minigra z lataniem przez pierścienie
+    usage: /elytra pomoc
+permissions:
+  elytrapierscienie.admin:
+    description: Zarządzanie pierścieniami i rundą
+    default: op

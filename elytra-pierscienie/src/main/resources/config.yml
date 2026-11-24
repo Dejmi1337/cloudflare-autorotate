@@ -1,0 +1,4 @@
+# Czas, po którym ponowny przelot przez ten sam pierścień daje punkty.
+przerwa-sekundy: 5
+# Domyślny czas rundy w sekundach.
+czas-rundy: 180
